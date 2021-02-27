@@ -1,0 +1,126 @@
+body {
+  font-size: 15px;
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-size: 45px;
+  line-height: 45px;
+  margin-bottom: 10px;
+}
+
+p {
+  clear: left;
+  color: hsl(303, 10%, 53%);
+}
+
+.people-image{
+  border-radius: 50%;
+  width: 10%;
+  float: left;
+  margin-right: 15px;
+}
+
+.background-bottom{
+position: absolute;
+left: 20%;
+bottom: 0;
+}
+
+.sub-heading {
+  line-height: 20px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.testimonies-text {
+  margin-top: 15px;
+  font-weight: 500;
+  color: #c6b9c5;
+}
+
+.attribution {
+  margin-bottom: 0;
+  font-size: 12px;
+  position: absolute;
+  bottom: 10px;
+  left: 35%;
+}
+
+.heading {
+  width: 30%;
+  display: inline-block;
+  position: absolute;
+  left: 160px;
+  top: 100px;
+}
+
+.ratings {
+  background-color: hsl(300, 24%, 96%);
+  height: 20px;
+  width: 360px;
+  display: inline;
+  color: hsl(300, 43%, 22%);
+  font-weight: 800;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 16px;
+}
+
+.rating1 {
+  position: absolute;
+  top: 145px;
+  right: 250px;
+}
+
+.rating2 {
+  position: absolute;
+  top: 210px;
+  right: 206px;
+}
+
+.rating3 {
+  position: absolute;
+  top: 275px;
+  right: 161px;
+}
+
+.stars{
+  padding-right: 25px;
+  padding-left: 15px;
+}
+
+.testimonies {
+  background-color: hsl(300, 43%, 22%);
+  width: 270px;
+  display: inline-block;
+  border-radius: 10px;
+  position: absolute;
+  color: white;
+  font-weight: 300;
+  font-size: 12px;
+  padding: 30px;
+  line-height: 20px;
+}
+
+.Colton-Smith {
+  bottom: 180px;
+  left: 165px;
+}
+
+.verified {
+  color: hsl(333, 80%, 67%);
+}
+
+.Irene-Roberts {
+  bottom: 150px;
+  left: 520px;
+}
+
+.Anne-Wallace {
+  bottom: 130px;
+  left: 875px;
+}
+
+*/
